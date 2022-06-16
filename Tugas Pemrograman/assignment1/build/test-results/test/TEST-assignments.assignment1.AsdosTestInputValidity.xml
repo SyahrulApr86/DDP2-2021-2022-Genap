@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignments.assignment1.AsdosTestInputValidity" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-03-27T15:30:49" hostname="LAPTOP-H81ESFEQ" time="0.038">
+  <properties/>
+  <testcase name="testInputValidSeventeen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.01"/>
+  <testcase name="testInputValidEight()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidSeven()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidThree()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.007"/>
+  <testcase name="testInputValidFifteen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidNineteen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwentyOne()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwentyTwo()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidEleven()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidFourteen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidFive()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidFour()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidNine()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwelve()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwenty()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidOne()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidSix()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.001"/>
+  <testcase name="testInputValidTen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwo()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidThirteen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidEighteen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwentyThree()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidTwentyFive()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.002"/>
+  <testcase name="testInputValidTwentyFour()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <testcase name="testInputValidSixteen()" classname="assignments.assignment1.AsdosTestInputValidity" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
